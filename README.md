@@ -1,4 +1,4 @@
-# vehicle-buy-sell-app
+# vehicle-tracking-system
 Java , JavaFX , Mysql 
 Desktop Project
 
