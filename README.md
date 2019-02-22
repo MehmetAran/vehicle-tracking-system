@@ -8,8 +8,7 @@ Desktop Project
 
 Figure 1 : HomePage
 
-
-
+&nbsp;&nbsp;&nbsp;
 
 
 
@@ -17,6 +16,7 @@ Figure 1 : HomePage
 
 Figure 2 : Advertisement Page
 
+&nbsp;&nbsp;&nbsp;
 
 
 
@@ -27,6 +27,8 @@ Figure 2 : Advertisement Page
 Figure 3 : City Page
 
 
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 
 
@@ -36,6 +38,7 @@ Figure 3 : City Page
 Figure 4 : Gear Type Page
 
 
+&nbsp;&nbsp;&nbsp;
 
 
 
@@ -44,6 +47,7 @@ Figure 4 : Gear Type Page
 
 Figure 5 : Color Page
 
+&nbsp;&nbsp;&nbsp;
 
 
 
@@ -54,6 +58,7 @@ Figure 5 : Color Page
 Figure 6 : Fuel Type Page
 
 
+&nbsp;&nbsp;&nbsp;
 
 
 
@@ -62,6 +67,7 @@ Figure 6 : Fuel Type Page
 
 Figure 7 : Car Page 
 
+&nbsp;&nbsp;&nbsp;
 
 
 
