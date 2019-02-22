@@ -6,34 +6,44 @@ Desktop Project
 ![alt text](https://github.com/MehmetAran/vehicle-buy-sell-app/blob/master/app-images/Screenshot_1.png)
 
 
-HomePage
+Figure 1 : HomePage
+
+
+
 
 
 
 ![alt text](https://github.com/MehmetAran/vehicle-buy-sell-app/blob/master/app-images/Screenshot_2.png)
 
-Advertisement Page
+Figure 2 : Advertisement Page
+
+
 
 
 
 ![alt text](https://github.com/MehmetAran/vehicle-buy-sell-app/blob/master/app-images/Screenshot_3.png)
 
 
-City Page
+Figure 3 : City Page
+
+
 
 
 
 ![alt text](https://github.com/MehmetAran/vehicle-buy-sell-app/blob/master/app-images/Screenshot_4.png)
 
 
-Gear Type Page
+Figure 4 : Gear Type Page
+
+
 
 
 
 ![alt text](https://github.com/MehmetAran/vehicle-buy-sell-app/blob/master/app-images/Screenshot_5.png)
 
 
-Color Page
+Figure 5 : Color Page
+
 
 
 
@@ -41,18 +51,22 @@ Color Page
 ![alt text](https://github.com/MehmetAran/vehicle-buy-sell-app/blob/master/app-images/Screenshot_6.png)
 
 
-Fuel Type Page
+Figure 6 : Fuel Type Page
+
+
 
 
 
 ![alt text](https://github.com/MehmetAran/vehicle-buy-sell-app/blob/master/app-images/Screenshot_7.png)
 
 
-Car Page 
+Figure 7 : Car Page 
+
+
 
 
 ![alt text](https://github.com/MehmetAran/vehicle-buy-sell-app/blob/master/app-images/Screenshot_8.png)
 
 
-Filter Page
+Figure 8 : Filter Page
 
